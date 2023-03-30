@@ -1,4 +1,3 @@
-// // Define the quiz questions
 <script type="text/javascript" src="./script.js"></script>
 <script>
   // Define the quiz questions
@@ -86,7 +85,7 @@
       if (userAnswer === question.answer) {
         score++;
       }
-   
+
 
 // const questions = [
 //   {
